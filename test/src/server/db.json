@@ -1,0 +1,146 @@
+{
+  "dangkiem": [
+    {
+      "registerID": 123,
+      "registerDate": "25/10/2002",
+      "brand": "chotanh",
+      "owner": "ditmethangtanh",
+      "city": "New York",
+      "re_registerDate": "20/10/2006",
+      "department": 123,
+      "registerNumber": 10001,
+      "registerTime": "20/10/2010"
+    },
+    {
+      "registerID": 456,
+      "registerDate": "24/8/2001",
+      "brand": "tanhcho",
+      "owner": "conchoson",
+      "city": "Ha Noi",
+      "re_registerDate": "23/8/2005",
+      "department": 375,
+      "registerNumber": 23189,
+      "registerTime": "23/8/2009"
+    },
+    {
+      "registerID": 123,
+      "registerDate": "25/10/2002",
+      "brand": "chotanh",
+      "owner": "ditmethangtanh",
+      "city": "New York",
+      "re_registerDate": "20/10/2006",
+      "department": 123,
+      "registerNumber": 10001,
+      "registerTime": "20/10/2010"
+    },
+    {
+      "registerID": 456,
+      "registerDate": "24/8/2001",
+      "brand": "tanhcho",
+      "owner": "conchoson",
+      "city": "Ha Noi",
+      "re_registerDate": "23/8/2005",
+      "department": 375,
+      "registerNumber": 23189,
+      "registerTime": "23/8/2009"
+    },
+    {
+      "registerID": 123,
+      "registerDate": "25/10/2002",
+      "brand": "chotanh",
+      "owner": "ditmethangtanh",
+      "city": "New York",
+      "re_registerDate": "20/10/2006",
+      "department": 123,
+      "registerNumber": 10001,
+      "registerTime": "20/10/2010"
+    },
+    {
+      "registerID": 456,
+      "registerDate": "24/8/2001",
+      "brand": "tanhcho",
+      "owner": "conchoson",
+      "city": "Ha Noi",
+      "re_registerDate": "23/8/2005",
+      "department": 375,
+      "registerNumber": 23189,
+      "registerTime": "23/8/2009"
+    },
+    {
+      "registerID": 123,
+      "registerDate": "25/10/2002",
+      "brand": "chotanh",
+      "owner": "ditmethangtanh",
+      "city": "New York",
+      "re_registerDate": "20/10/2006",
+      "department": 123,
+      "registerNumber": 10001,
+      "registerTime": "20/10/2010"
+    },
+    {
+      "registerID": 456,
+      "registerDate": "24/8/2001",
+      "brand": "tanhcho",
+      "owner": "conchoson",
+      "city": "Ha Noi",
+      "re_registerDate": "23/8/2005",
+      "department": 375,
+      "registerNumber": 23189,
+      "registerTime": "23/8/2009"
+    },
+    {
+      "registerID": 123,
+      "registerDate": "25/10/2002",
+      "brand": "chotanh",
+      "owner": "ditmethangtanh",
+      "city": "New York",
+      "re_registerDate": "20/10/2006",
+      "department": 123,
+      "registerNumber": 10001,
+      "registerTime": "20/10/2010"
+    },
+    {
+      "registerID": 456,
+      "registerDate": "24/8/2001",
+      "brand": "tanhcho",
+      "owner": "conchoson",
+      "city": "Ha Noi",
+      "re_registerDate": "23/8/2005",
+      "department": 375,
+      "registerNumber": 23189,
+      "registerTime": "23/8/2009"
+    }
+  ],
+  "departments": [
+    {
+      "accountName": "something",
+      "password": "******",
+      "city": "New York",
+      "departmentNumber": 123
+    },
+    {
+      "accountName": "testing",
+      "password": "******",
+      "city": "Ha Noi",
+      "departmentNumber": 234
+    }
+  ],
+  "user": [
+    {
+      "accountId": 123456,
+      "accountName": "testing",
+      "password": "******",
+      "email": "new@gmail.com",
+      "phoneNumber": 123456789,
+      "address": "Ha Noi"
+    },
+    {
+      "accountId": 456789,
+      "accountName": "new",
+      "password": "******",
+      "email": "test@gmail.com",
+      "phoneNumber": 987654321,
+      "address": "Ha Noi"
+    }
+  ]
+}
